@@ -1,0 +1,7 @@
+libraries installed in 64 bit :
+
+1.sudo apt-get install libx32gcc-4.8-dev
+2.sudo apt-get install libc6-dev-i386
+3.sudo apt-get install binutils-dev
+
+
